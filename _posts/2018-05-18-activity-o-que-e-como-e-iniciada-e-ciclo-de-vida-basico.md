@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # ACTIVITY: O QUE É, COMO É INICIADA E CICLO DE VIDA BÁSICO
 
