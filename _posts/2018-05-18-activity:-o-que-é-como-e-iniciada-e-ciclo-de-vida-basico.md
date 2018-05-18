@@ -1,7 +1,10 @@
 ---
 published: true
 ---
-# ACTIVITY: O QUE É, COMO É INICIADA E CICLO DE VIDA BÁSICO
+---
+layout: post
+title: ACTIVITY: O QUE É, COMO É INICIADA E CICLO DE VIDA BÁSICO
+---
 
 Se você está começando agora no desenvolvimento de aplicativos na plataforma Android e quer se dar bem, é importante conhecer e dominar um dos componentes mais importantes e utilizados no mundo do robozinho verde. Estamos falando da Activity (ou Atividade) e neste primeiro post da série vamos conhecer um pouco mais sobre o funcionamento e ciclo de vida do componente. Bora lá?
 
