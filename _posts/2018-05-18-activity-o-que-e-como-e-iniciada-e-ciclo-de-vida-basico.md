@@ -1,5 +1,6 @@
 ---
 published: true
+title: Activity: o que é, como é iniciada e ciclo de vida básico
 ---
 # ACTIVITY: O QUE É, COMO É INICIADA E CICLO DE VIDA BÁSICO
 
