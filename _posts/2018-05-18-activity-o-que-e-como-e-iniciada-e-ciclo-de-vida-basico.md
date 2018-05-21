@@ -74,7 +74,6 @@ Tudo pronto! Temos um aplicativo funcional, que criamos com o mínimo de ajuda d
 
 Em breve voltamos para falar sobre como lidar com mudanças de configuração para salvar o estado atual da Activity e oferecer uma experiência agradável ao usuário. Até lá!
 
-Artigo postado no Blog da Concrete:
-https://concrete.com.br/2018/05/18/activity-o-que-e-como-e-iniciada-e-ciclo-de-vida-basico/
+Artigo postado no [Blog da Concrete](https://concrete.com.br/2018/05/18/activity-o-que-e-como-e-iniciada-e-ciclo-de-vida-basico)
 
 Valeu!
